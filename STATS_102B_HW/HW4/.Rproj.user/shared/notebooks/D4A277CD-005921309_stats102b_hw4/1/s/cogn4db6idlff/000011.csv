@@ -1,0 +1,8 @@
+"0","coefficients <- data.frame("
+"0","  Intercept = -4.89745,"
+"0","  x_1 = 0.2448018,"
+"0","  x_2 = 0.8635284"
+"0",")"
+"0",""
+"0","# Print coefficients table"
+"0","knitr::kable(coefficients, caption = ""Coefficients"")"

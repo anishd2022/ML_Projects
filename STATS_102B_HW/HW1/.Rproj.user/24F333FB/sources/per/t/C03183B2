@@ -1,0 +1,33 @@
+{
+    "id": "C03183B2",
+    "path": "~/UCLA/STATS 102B/HW1/005921309_stats102b_hw1.Rmd",
+    "project_path": "005921309_stats102b_hw1.Rmd",
+    "type": "r_markdown",
+    "hash": "1001371128",
+    "contents": "",
+    "dirty": false,
+    "created": 1712792625251.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,21",
+        "scrollLine": "3",
+        "last_setup_crc32": "",
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "rmdVisualModeLocation": "4360:2472.800048828125",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1712904747,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1712904747198,
+    "read_only": false,
+    "read_only_alternatives": []
+}

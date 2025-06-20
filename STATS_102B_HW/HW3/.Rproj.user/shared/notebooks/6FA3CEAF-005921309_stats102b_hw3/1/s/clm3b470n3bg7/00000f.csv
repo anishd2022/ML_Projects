@@ -1,0 +1,4 @@
+"0","# importing necessary libraries"
+"0","# the ""numDeriv"" package is needed to easily calculate the hessian matrix. "
+"0","# The hessian contains all the combinations of partial derivatives"
+"0","library(numDeriv)"
